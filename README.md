@@ -1,3 +1,5 @@
+CRUD generate
+
 • Instalar XAMPP 7.4
 https://www.apachefriends.org/es/download.html
 
